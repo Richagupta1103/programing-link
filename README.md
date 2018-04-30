@@ -10,3 +10,6 @@ http://dancres.github.io/Pages/
 http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/
 https://www.mtu.edu/career/students/toolbox/interviews/
 https://techdevguide.withgoogle.com/paths/
+https://csx.codesmith.io/units/async
+https://www.coursera.org/specializations/software-design-architecture
+https://go.springframework.guru/video-111747051?webinar_ext=UyHEIVWG
